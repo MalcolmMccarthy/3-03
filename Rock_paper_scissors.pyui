@@ -1,0 +1,85 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{87, 110}, {156, 74}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "paper_button",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Paper",
+          "uuid" : "24E8982B-DF1A-484B-938D-9100B32DBA60",
+          "class" : "Button",
+          "name" : "paper_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{87, 28}, {156, 74}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "rock_button",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Rock",
+          "uuid" : "02A01C0C-CB97-4768-8540-AF65A8D82390",
+          "class" : "Button",
+          "name" : "rock_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{87, 200}, {156, 75}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "scissors_button",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Scissors",
+          "uuid" : "714BEAC9-2902-431C-873F-38D71A7D217B",
+          "class" : "Button",
+          "name" : "scissors_button",
+          "font_size" : 15
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{94, 299}, {179, 58}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "553911F1-F82F-4C69-A13F-2B974E98C3BE",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "answer_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
